@@ -1,0 +1,1 @@
+import{_ as e}from"./Media-81337d70.js";import{y as t,z as o,o as s,c,a as n}from"./index-eeba86cf.js";const r={class:"main"},l={__name:"TvPage",setup(_){const a=t("reload");return o(()=>{a()}),(m,p)=>(s(),c("main",r,[n(e,{type:"tv"})]))}};export{l as default};
